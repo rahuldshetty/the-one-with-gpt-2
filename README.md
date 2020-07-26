@@ -6,7 +6,7 @@ I am using BeautifulSoup to webscape these contents. I have used the notebook fr
 this dataset.
 
 # Random Results:
-`
+
 Joey: You are so gonna be such a failure!
 Phoebe: You're right. I'm sorry Chandler.
 Joey: Come on. You know what it's gonna be! I'm never gonna be one of those guys again!
@@ -52,5 +52,5 @@ Chandler: Yeah. I don't even know what to do.
 Rachel: All right, well, I'm gonna go to the airport.
 
 Joey: All right.
-`
+
 
